@@ -1,0 +1,16 @@
+{
+  "name": "graphicx",
+  "projects": [
+    "eclipies",
+    "randomwalker",
+    "distributionwalker",
+    "graphwalker",
+    "speedwalker",
+    "vectorwalker",
+    "accelerationwalker",
+    "flappybird",
+    "forceswalker",
+    "dragwalker",
+    "pendulumwalker"
+  ]
+}
